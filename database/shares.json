@@ -1,0 +1,56 @@
+{
+    "b6ca44f3334bc7fe38de3eac1c676261a2764bb82a89e95a7f6f3a5318a8261e": {
+        "user_name": "bandai",
+        "icid": "b6ca44f3334bc7fe38de3eac1c676261a2764bb82a89e95a7f6f3a5318a8261e",
+        "threshold": 3,
+        "ramp": 1,
+        "length": 0,
+        "qr_id": 1,
+        "strength": 1,
+        "key_id": 1,
+        "shares": [
+            [
+                1,
+                [
+                    8475666309992860358636704131122236209115238031909
+                ]
+            ]
+        ]
+    },
+    "45d0ba5edffd761e97742069dc177342acd07c41c53677fb3e9edebeb47dd85b": {
+        "user_name": "pasmo",
+        "icid": "45d0ba5edffd761e97742069dc177342acd07c41c53677fb3e9edebeb47dd85b",
+        "threshold": 3,
+        "ramp": 1,
+        "length": 0,
+        "qr_id": 3,
+        "strength": 1,
+        "key_id": 1,
+        "shares": [
+            [
+                3,
+                [
+                    8840566034458601034052697283146556334698860124674
+                ]
+            ]
+        ]
+    },
+    "1eeee072f16240dd8e873ff890066c99079873e4440601ee5307cd6f76037001": {
+        "user_name": "ryo",
+        "icid": "1eeee072f16240dd8e873ff890066c99079873e4440601ee5307cd6f76037001",
+        "threshold": 3,
+        "ramp": 1,
+        "length": 0,
+        "qr_id": 5,
+        "strength": 1,
+        "key_id": 1,
+        "shares": [
+            [
+                5,
+                [
+                    9205465758924341709468690435170876460282482217439
+                ]
+            ]
+        ]
+    }
+}

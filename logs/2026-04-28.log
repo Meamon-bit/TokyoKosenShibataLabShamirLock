@@ -1,0 +1,22 @@
+[2026-04-28 20:38:03] <ERR!> Message: Scan was canceled
+[2026-04-28 20:42:12] <USER> key_id: 1, ic_id:012e593838847e20, user_name:bandai
+[2026-04-28 20:42:14] <USER> key_id: 1, ic_id:011203122b22d80b, user_name:pasmo
+[2026-04-28 20:42:18] <USER> key_id: 1, ic_id:0114b405e51c2a27, user_name:ryou
+[2026-04-28 20:42:20] <DOOR> key_id: 1, Action: Unlock signal sent  (Status Changed)
+[2026-04-28 21:02:44] <USER> key_id: 1, ic_id:012e593838847e20, user_name:llllll
+[2026-04-28 21:09:28] <USER> key_id: 1, ic_id:0114b405e51c2a27, user_name:
+[2026-04-28 21:09:32] <USER> key_id: 1, ic_id:011203122b22d80b, user_name:hirayama
+[2026-04-28 21:09:40] <USER> key_id: 1, ic_id:011203122b22d80b, user_name:hirayama
+[2026-04-28 21:09:49] <USER> key_id: 1, ic_id:0114b405e51c2a27, user_name:
+[2026-04-28 21:16:48] <USER> key_id: 1, ic_id:011203122b22d80b, user_name:hirayama
+[2026-04-28 21:16:51] <USER> key_id: 1, ic_id:012e593838847e20, user_name:llllll
+[2026-04-28 21:16:59] <USER> key_id: 1, ic_id:0114b405e51c2a27, user_name:
+[2026-04-28 21:17:01] <DOOR> key_id: 1, Action: Unlock signal sent  (Status Changed)
+[2026-04-28 21:25:32] <ERR!> Message: Scan was canceled
+[2026-04-28 21:25:36] <ERR!> Message: Not enough shares collected, aborting process
+[2026-04-28 21:30:37] <USER> key_id: 1, ic_id:011203122b22d80b, user_name:pasmo
+[2026-04-28 21:30:45] <USER> key_id: 1, ic_id:012e593838847e20, user_name:bandai
+[2026-04-28 21:30:48] <USER> key_id: 1, ic_id:0114b405e51c2a27, user_name:ryo
+[2026-04-28 21:30:50] <DOOR> key_id: 1, Action: Unlock signal sent  (Status Changed)
+[2026-04-28 21:31:42] <ERR!> Message: Scan was canceled
+[2026-04-28 21:31:46] <ERR!> Message: Not enough shares collected, aborting process
